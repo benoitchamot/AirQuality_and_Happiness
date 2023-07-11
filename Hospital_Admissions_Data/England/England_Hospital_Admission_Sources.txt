@@ -1,0 +1,4 @@
+Over 19: https://fingertips.phe.org.uk/search/asthma#page/4/gid/1/pat/159/par/K02000001/ati/15/are/E92000001/iid/93573/age/298/sex/4/cat/-1/ctp/-1/yrr/1/cid/4/tbm/1
+
+Over 18:
+https://fingertips.phe.org.uk/search/asthma#page/4/gid/1/pat/159/par/K02000001/ati/15/are/E92000001/iid/92780/age/220/sex/4/cat/-1/ctp/-1/yrr/1/cid/4/tbm/1/page-options/ine-yo-1:2019:-1:-1_ine-ct-156_ine-pt-0
