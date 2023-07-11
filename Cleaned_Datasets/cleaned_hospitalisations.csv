@@ -1,0 +1,177 @@
+State,Year,No. of Hospitalisations
+Arizona,2015,"4,894"
+Arizona,2016,"3,431"
+Arizona,2017,"3,237"
+Arizona,2018,"3,161"
+Arizona,2019,"2,960"
+Arizona,2020,"1,766"
+Arizona,2021,"1,856"
+California,2015,"26,930"
+California,2016,"18,312"
+California,2017,"18,112"
+California,2018,"16,975"
+California,2019,"17,606"
+Colorado,2015,"3,170"
+Colorado,2016,"2,484"
+Colorado,2017,"2,367"
+Colorado,2018,"2,236"
+Colorado,2019,"2,352"
+Colorado,2020,"1,263"
+Connecticut,2015,"3,831"
+Connecticut,2016,"2,686"
+Connecticut,2017,"2,536"
+Connecticut,2018,"2,451"
+Connecticut,2019,"2,205"
+Connecticut,2020,"1,300"
+Connecticut,2021,"1,508"
+Florida,2015,"23,844"
+Florida,2016,"15,293"
+Florida,2017,"14,047"
+Florida,2018,"13,711"
+Florida,2019,"12,906"
+Florida,2020,"7,713"
+Florida,2021,"8,131"
+Iowa,2015,"1,588"
+Iowa,2016,976
+Iowa,2017,906
+Iowa,2018,820
+Iowa,2019,724
+Iowa,2020,425
+Iowa,2021,469
+Kansas,2015,"1,625"
+Kansas,2016,"1,134"
+Kansas,2017,"1,029"
+Kansas,2018,"1,001"
+Kansas,2019,984
+Kansas,2020,570
+Kentucky,2015,"3,806"
+Kentucky,2016,"1,926"
+Kentucky,2017,"1,748"
+Kentucky,2018,"1,856"
+Kentucky,2019,"1,805"
+Kentucky,2020,904
+Louisiana,2015,"3,539"
+Louisiana,2016,"2,286"
+Louisiana,2017,"2,023"
+Louisiana,2018,"1,963"
+Louisiana,2019,"1,972"
+Louisiana,2020,"1,078"
+Maine,2015,670
+Maine,2016,421
+Maine,2017,321
+Maine,2018,354
+Maine,2019,342
+Maine,2020,187
+Maryland,2015,"5,765"
+Maryland,2016,"3,462"
+Maryland,2017,"3,507"
+Maryland,2018,"3,156"
+Massachusetts,2015,"7,347"
+Massachusetts,2016,"5,091"
+Massachusetts,2017,"5,170"
+Massachusetts,2018,"5,015"
+Massachusetts,2019,"4,771"
+Michigan,2015,"10,319"
+Michigan,2016,"5,839"
+Michigan,2017,"6,074"
+Michigan,2018,"6,062"
+Michigan,2019,"6,084"
+Minnesota,2015,"2,696"
+Minnesota,2016,"1,854"
+Minnesota,2017,"1,505"
+Minnesota,2018,"1,548"
+Minnesota,2019,"1,441"
+Minnesota,2020,860
+Missouri,2015,"5,824"
+Missouri,2016,"3,714"
+Missouri,2017,"3,643"
+Missouri,2018,"3,752"
+Missouri,2019,"3,412"
+Missouri,2020,"1,916"
+New Hampshire,2015,730
+New Hampshire,2016,451
+New Hampshire,2017,450
+New Hampshire,2018,434
+New Hampshire,2019,436
+New Hampshire,2020,253
+New Jersey,2015,"11,113"
+New Jersey,2016,"7,521"
+New Jersey,2017,"6,513"
+New Jersey,2018,"6,810"
+New Jersey,2019,"6,211"
+New Jersey,2020,"3,418"
+New Jersey,2021,"4,302"
+New Mexico,2015,"1,533"
+New Mexico,2016,"1,183"
+New Mexico,2017,994
+New Mexico,2018,"1,014"
+New Mexico,2019,947
+New Mexico,2020,511
+New Mexico,2021,669
+New York,2015,"28,603"
+New York,2016,"21,320"
+New York,2017,"19,507"
+New York,2018,"20,011"
+New York,2019,"18,608"
+New York,2020,"9,507"
+New York,2021,"12,054"
+Oregon,2015,"1,844"
+Oregon,2016,"1,126"
+Oregon,2017,"1,176"
+Oregon,2018,"1,150"
+Oregon,2019,"1,098"
+Oregon,2020,684
+Oregon,2021,613
+Pennsylvania,2015,"14,922"
+Pennsylvania,2016,"10,395"
+Pennsylvania,2017,"9,599"
+Pennsylvania,2018,"10,030"
+Pennsylvania,2019,"8,472"
+Pennsylvania,2020,"4,885"
+Rhode Island,2015,"1,203"
+Rhode Island,2016,752
+Rhode Island,2017,744
+Rhode Island,2018,634
+Rhode Island,2019,736
+Rhode Island,2020,383
+Rhode Island,2021,382
+Tennessee,2015,"4,691"
+Tennessee,2016,"2,563"
+Tennessee,2017,"2,407"
+Tennessee,2018,"2,470"
+Tennessee,2019,"2,393"
+Utah,2015,"1,274"
+Utah,2016,992
+Utah,2017,832
+Utah,2018,836
+Utah,2019,831
+Utah,2020,579
+Utah,2021,829
+Vermont,2015,271
+Vermont,2016,134
+Vermont,2017,135
+Vermont,2018,146
+Vermont,2019,157
+Vermont,2020,91
+Virginia,2015,"6,690"
+Virginia,2016,"4,000"
+Virginia,2017,"3,827"
+Virginia,2018,"3,774"
+Virginia,2019,"3,651"
+Virginia,2020,"2,000"
+Virginia,2021,"1,949"
+Washington,2015,"3,284"
+Washington,2016,"2,288"
+Washington,2017,"2,202"
+Washington,2018,"2,070"
+Washington,2019,"1,920"
+Washington,2020,"1,301"
+West Virginia,2015,"1,504"
+West Virginia,2016,612
+Wisconsin,2015,"3,954"
+Wisconsin,2016,"1,981"
+Wisconsin,2017,"2,019"
+Wisconsin,2018,"2,020"
+Wisconsin,2019,"1,687"
+Wisconsin,2020,934
+Wisconsin,2021,"1,171"
