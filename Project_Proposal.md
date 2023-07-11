@@ -17,7 +17,6 @@ The objective of our project is to uncover patterns in air quality and quality o
 ## Potential Datasets used:
 - IQAir API: [https://www.iqair.com/au/dashboard/api](https://www.iqair.com/au/dashboard/api)
 - Happiness index:
-- Happiness index:
 - Life expectancy by country: Files located in 'Data_Sources' folder
 - Asthma hospitalisations data: Files located in 'Data_Sources' folder
 - Asthma prevalence by country: Files located in 'Data_Sources' folder
