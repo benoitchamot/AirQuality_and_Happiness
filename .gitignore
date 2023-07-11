@@ -1,6 +1,9 @@
 # .DStore
 .DS_Store
 
+# Large files
+LargeFiles/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
