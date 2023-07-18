@@ -1,10 +1,10 @@
 # Project Proposal – Group 1
-The objective of our project is to uncover patterns in air quality and quality of life. We will examine the relationships between a country's air quality and the Country Happiness Index, as well as any correlation between air quality and life expectancy. Additionally, we will investigate the impact of air quality on asthma hospitalisations in specific regions by analysing relevant AU data.
+The objective of our project is to uncover patterns in air quality and quality of life. We will examine the relationships between a country's air quality and the Country Happiness Index, as well as any correlation between air quality and life expectancy. Additionally, we will investigate the impact of air quality on asthma hospitalisations in specific regions by analysing relevant US data.
 
 ## Air Quality vs Happiness Index
-- Which countries have the best/worst air quality – Graph 1
-- Air quality data (top 5 countries) vs country happiness index – Graph 2
-- Air quality data (worst 5 countries) vs country happiness index – Graph 3
+- Air Quality vs Happiness Ranking – Graph 1
+- Air Quality vs Happiness Score – Graph 2
+
 
 ## Air Quality vs Life Expectancy Index
 - Air quality vs life expectancy for the top 5 air quality countries – Graph 4
