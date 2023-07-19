@@ -9,5 +9,8 @@
 __pycache__/
 *.py[cod]
 
+# API keys
+api_keys.py
+
 
 
