@@ -73,7 +73,9 @@ Finally, we looked at quality of life in terms of mental health, more globally r
 
 # Conclusions
 ## Air Quality & Asthma Prevalence (World)
-To Be Written by Val
+- Based on the data gathered and analysis conducted with this metric - we would gather that there is a **negative correlation** between air quality having an impact on the prevalence of asthma in countries. Meaning as air quality worsens - the asthma prevalence improves. We can conclude that there may be other varying factors and variables outside of this metric that may have affected the results. Some of which can include the varying air quality regulations in different countries, the differences in healthcare and reporting, socio-economic factors, etc. 
+
+- If we look at Bangladesh and Nepal for example, both placing in the bottom tier of air quality, and high (better) tier for Asthma prevalence. We can interpret this data and assume that these countries' socio-economic factors, and as well as health care reporting and air quality regulations can have all have an implication on the results. Doing this analysis was very interesting, as we expected the data to demonstrate differently, as it shows to be out of line of our expectation, but given external factors, it's reported a **moderately negative correlation**.
 
 ## Air Quality & Hospitalisations caused by asthma (United States)
 - We observe a positive correlation between the concentration of PM2.5 in the air and the number of hospitalisations
