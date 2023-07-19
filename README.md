@@ -83,7 +83,20 @@ Finally, we looked at quality of life in terms of mental health, more globally r
 - Differences are highlighted between different states: states with larger cities (New York, California and Florida) have worse air quality (because of these cities) and higher number of hospitalisation (simply caused by the larger number of people.) Smaller states show the exact opposite results (smaller cities or more rural states have better air quality and fewer hospital admissions.) 
 
 ## Air Quality & Life Expectancy
-To Be Written by Akbar
+Relationship result between life expectancy data and Air Quality shows in the scatter plot graph above. This relationship shows a negative correlation between air quality (PM25) and Life Expectancy. The higher the PM25 (poorer air quality) the lower the life expetancy, so there is an inverse relationship between air quality and life expectancy but it doesn't mean causation air quality doesnt necessary causing people to life longer. 
+
+This graph shows a none / weak negative relationship means that the data points spread out but still making a trend. Countries with lower PM25 (good air quality) seems to have longer life expetancy, however futher analysis needs to be done as this is not the only reason for the longer life expectancy, other factors may have significant effect such as Genetics, Life Style, Exercise, Diet, Social Life, etc.
+
+On the Life Expectancy box plot you can see that between 2015 - 2018 we have similar sample size and the median age around 78-79 however in 2019-2020 there is a decline in the median age to 76-77 period where this has caused a reduction of the median age and you can see also a couple of outlier in each of 2017 & 2018 dataset. For PM25 box plot shows a steady around 50-62 micrograms between 2015-2020 a slight decrease in the country analysed in 2019-2020 and from this you can see several outlier in each of the year.
+
+By calculating categorising the air quality based on the level of PM25 and finding the mean of the Life Expectancy and put it on a bar chart we can see that the good and moderate air quality have higher Life Expectancy than the unhealthy groups.
+
+Switzerland shows that the life expectancy is increasing every year and this inline with PM25 shows a decrease between 2016-2019. On the other hand Indonesia shows the life expectancy decreasing in 2016-2020 and this show an increase in PM25 in 2016-2019.
+
+**CONCLUSION**
+We can see from the above analysis and graphs that countries with good and moderate categories which has low level of PM25 live much longer than countries with higher PM25.
+
+This can be conclued that air quality has an impact in life expectancy however this does not mean that air quality is the only factor or the main driver of life expectancy. Life Expectancy could be drivered from a range of factor, including but not limited to Genetics, Life Style such as excercise, Diet or food you eat, Social Life and many other things. This analysis is only to show that air quality (level of PM25) has correlation to the life expectancy in countries around the world.
 
 ## Air Quality & Happiness Index
 - By examining the Happiness Index Rankings and relevant Air Quality data, we observe a positive correlation of moderate strength as indicated by an R-Value of 0.62. 
