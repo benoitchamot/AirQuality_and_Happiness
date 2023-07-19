@@ -2,9 +2,15 @@
 # .DStore
 .DS_Store
 
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
+
+# API keys
+api_keys.py
 
 
 
