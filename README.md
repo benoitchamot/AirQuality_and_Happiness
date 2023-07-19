@@ -1,6 +1,18 @@
 # MONU_project1
 Repository for Monash University Bootcamp Project 1 (Group 1)
 
+## Quick Start
+1. Run all the Jupyter notebooks starting with 'Cleaning_' first to generate the cleaned datasets. The files can be run in any order.
+2. Run all the Jupyter notebooks starting with 'Analysis_' once the cleaned datasets have been generated. The files can be run in any order.
+
+Note that Analysis_AirQuality_and_Hospitalisations_in_US.ipynb requires a valid API key for GeoApify. Once you have obtained your key, please follow the steps below:
+1. Create a file called api_keys.py'
+2. In the file, include the line: api_key_geoapify = "..."'
+3. Replace ... with your geoapify API key'
+4. Restart your Kernel before running the notebook.'
+
+Please go through the dependencies in each notebook to make sure you have installed all the required modules.
+
 ## Folder structure and files
 This section provides a high-level description of the directories. The content of each directory is provided in the next subsections.
 - The raw datasets are included in the Data_Sources directory
@@ -15,18 +27,18 @@ The Data_Sources directory includes the datasets gathered from various sources o
 - Annual Asthma Hospitalizations (per year and state in USA. 2015-2021).csv from https://ephtracking.cdc.gov/ 
 - Asthma Prevalence By Country.csv from https://ourworldindata.org/grapher/asthma-prevalence 
 - cleaned_life_expectancy_data.csv
-- ED Visits for Asthma (per year and state in USA.(2015-2021).csv from https://ephtracking.cdc.gov/ 
 - Happiness 2015.csv
 - Happiness 2016.csv
 - Happiness 2017.csv
 - Happiness 2018.csv
 - Happiness 2019.csv
 - Life Expectancy By Country.xls
-- Life Expectancy US data-table.csv
 - transposed_life_expectancy_data.csv
 - USA_County_Hospital_Admissions.csv from https://ephtracking.cdc.gov/
 - USA_States_Hospital_Admissions.csv from https://ephtracking.cdc.gov/
 - World Life Expectancy.csv
+
+### 
 
 # Research
 ## Main Research Question
