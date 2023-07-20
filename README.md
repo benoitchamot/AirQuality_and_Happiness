@@ -54,7 +54,7 @@ All the notebooks used to analyse the cleaned datasets are saved in the root dir
 
 The notebooks are:
 - Analysis_AirQuality_and_Asthma.ipynb, which uses cleaned_airquality.csv and cleaned_asthma_prevalence.csv
-- Analysis_AirQuality_and_Happiness.ipynb, which uses cleaned_airquality.csv
+- Analysis_AirQuality_and_Happiness.ipynb, which uses cleaned_airquality.csv and cleaned_happiness_index.csv
 - Analysis_AirQuality_and_Hospitalisations_in_US.ipynb, which uses cleaned_airquality_usstates.csv and cleaned_hospitalisations.csv
 - Analysis_AirQuality_and_Life_Expectancy.ipynb, which uses cleaned_airquality.csv and cleaned_life_expectancy_data.csv
 
