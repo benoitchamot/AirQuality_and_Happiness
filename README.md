@@ -120,12 +120,9 @@ On the Life Expectancy box plot you can see that between 2015 - 2018 we have sim
 
 By calculating categorising the air quality based on the level of PM25 and finding the mean of the Life Expectancy and put it on a bar chart we can see that the good and moderate air quality have higher Life Expectancy than the unhealthy groups.
 
-Switzerland shows that the life expectancy is increasing every year and this inline with PM25 shows a decrease between 2016-2019. On the other hand Indonesia shows the life expectancy decreasing in 2016-2020 and this show an increase in PM25 in 2016-2019.
+We can see from our analysis and graphs that countries with good and moderate air qualty live longer than countries with higher levels of pollution.
 
-**CONCLUSION**
-We can see from the above analysis and graphs that countries with good and moderate categories which has low level of PM25 live much longer than countries with higher PM25.
-
-This can be conclued that air quality has an impact in life expectancy however this does not mean that air quality is the only factor or the main driver of life expectancy. Life Expectancy could be drivered from a range of factor, including but not limited to Genetics, Life Style such as excercise, Diet or food you eat, Social Life and many other things. This analysis is only to show that air quality (level of PM25) has correlation to the life expectancy in countries around the world.
+This can be conclued that air quality has an impact in life expectancy however this does not mean that air quality is the only factor or the main driver of life expectancy. Life Expectancy could be driven from a range of factors, including but not limited to Genetics, Life Style such as excercise, Diet, Social Life and many other things. This analysis is only to show that air quality (level of PM 2.5) has a correlation to the life expectancy in countries around the world.
 
 ## Air Quality & Happiness Index
 - By examining the Happiness Index Rankings and relevant Air Quality data, we observe a positive correlation of moderate strength as indicated by an R-Value of 0.62. 
