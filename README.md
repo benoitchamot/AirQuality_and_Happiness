@@ -1,5 +1,4 @@
-# MONU_project1
-Repository for Monash University Bootcamp Project 1 (Group 1)
+# Air Quality and Quality of Life
 Presentation relevant to this project: https://docs.google.com/presentation/d/1pd7vmE3Sl2gkqpGoYjA5rD1X3c-KeQwC9vj8wQaj208
 
 ## Quick Start
